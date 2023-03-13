@@ -20,16 +20,21 @@
 <h1> Languages and Tools </h1>
 <img src="https://skillicons.dev/icons?i=javascript,netlify,vscode,html,css,git,github,codepen,nodejs,express,mongodb,postman,replit"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saloni0282&show_icons=true&locale=en&layout=compact" alt="saloni0282" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saloni0282&show_icons=true&locale=en" alt="saloni0282" /></p>
+### :fire: My Stats :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saloni0282&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saloni0282&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="saloni0282" /></p>
 
-<!--### :fire: My Stats :
-[![Saloni0282 GitHub stats](https://github-readme-stats.vercel.app/api?username=Saloni0282&count_private=true&theme=dark&background=000000)](https://github.com/Saloni0282/github-readme-stats)<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saloni0282&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</span>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saloni0282&show_icons=true&locale=en&theme=dark&background=000000" alt="saloni0282" /></p>
+
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Saloni0282&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)-->
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saloni0282&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 
+---
+
+### :writing_hand: Blog Posts :
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saloni0282&" alt="saloni0282" /></p>-->
