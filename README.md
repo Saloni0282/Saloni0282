@@ -20,7 +20,7 @@
 </p>
 
 <h1> Languages and Tools </h1>
-<img src="https://skillicons.dev/icons?i=javascript,netlify,vscode,html,css,git,github,codepen,nodejs,express,mongodb,postman,replit"/>
+<img src="https://skillicons.dev/icons?i=javascript,netlify,vscode,html,css,git,github,codepen,nodejs,express,mongodb,mysql,react,typescript,redis,postman,replit"/>
 
 ---
 
