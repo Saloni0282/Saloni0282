@@ -16,6 +16,16 @@
 
 <h3 align="left">Connect with me:</h3>
 
+<p align="left">
+<a href="https://www.linkedin.com/in/saloni0021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saloni0021/" height="30" width="40" /></a>
+</p> 
+
+<!-- <p align="left">
+  <a href="https://www.linkedin.com/in/saloni0021/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p> -->
+
 <h1> Languages and Tools </h1>
 <img src="https://skillicons.dev/icons?i=javascript,netlify,vscode,html,css,git,github,codepen,nodejs,express,mongodb,mysql,react,typescript,redis,postman,replit"/>
 
