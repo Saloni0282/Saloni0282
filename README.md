@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Node Backend Developer**
 
-- 📫 How to reach me **salonishalu2000@gmail.com**
+- 📫 How to reach me salonishalu2000@gmail.com
 
 - 🌐 My Portfolio https://saloni0282.github.io/
 
