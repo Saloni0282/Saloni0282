@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saloni0282" alt="saloni0282" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs, Express, MongoDB**
+- 🌱 I’m currently learning **NodeJs, Express, MongoDB, Python, MySQL, Flask, FastAPI, Generative AI**
 
-- 💬 Ask me about **Node Backend Developer**
+- 💬 Ask me about **Node Backend Developer, Python Backend Developer**
 
 - 📫 How to reach me salonishalu2000@gmail.com
 
