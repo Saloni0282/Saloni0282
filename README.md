@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="250" alt="Coding Girl"/>
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="150" alt="Coding Girl"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Saloni Kumari</h1>
